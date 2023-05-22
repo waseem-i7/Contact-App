@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FED504</color>
+    <color name="purple_700">#1D1D1B</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white1">#36ffffff</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="grey1">#DDE2E5</color>
+    <color name="grey2">#8E8F8B</color>
+    <color name="grey3">#959595</color>
+    <color name="grey4">#05959595</color>
+    <color name="grey5">#8E8F8B</color>
+    <color name="yellow1">#D0AE00</color>
+    <color name="green">#03B45F</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#4263EB</color>
+
+    <color name="grey20t">#20959595</color>
+    <color name="grey10t">#10959595</color>
+    <color name="grey40t">#40959595</color>
+    <color name="grey">#F4F4F4</color>
+    <color name="grey6">#EEEEEE</color>
+    <color name="grey7">#D9D9D9</color>
+    <color name="green20t">#2003B45F</color>
+    <color name="red20t">#20FF0000</color>
+    <color name="red10t">#10FF0000</color>
+    <color name="blue20t">#204263EB</color>
+    <color name="yellow">#FED504</color>
+    <color name="yellow20t">#20FED504</color>
+</resources>

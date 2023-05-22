@@ -1,0 +1,39 @@
+<!-- contact_item.xml -->
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="@dimen/size8"
+    android:layout_marginBottom="@dimen/size8"
+    android:layout_marginStart="@dimen/size16"
+    android:layout_marginEnd="@dimen/size16"
+    android:elevation="@dimen/size8"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/size16"
+            tools:text="Waseem Idrisi"
+            android:textColor="@color/black"
+            android:fontFamily="@font/rubik_regular"
+            android:padding="8dp" />
+
+        <TextView
+            android:id="@+id/tv2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/size14"
+            android:textColor="@color/black"
+            tools:text="6395604798"
+            android:layout_marginStart="8dp"
+            android:paddingBottom="@dimen/size8"/>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

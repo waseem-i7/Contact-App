@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="tab_text_1">Contacts</string>
+    <string name="tab_text_2">Messages</string>
+
+
+</resources>
